@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	outline: 0;
+}
+
+body{
+	font-family: arial;
+	font-size: 14px;
+	line-height: 18px;
+	color: #333;
+}
+
+.template{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.clear{
+	overflow: hidden;
+}
+.header{
+	background: #333333;
+	height: 80px;
+}
+
+.logo{
+	width: 400px;
+	float: left;
+	color: white;
+	font-size: 50px;
+	margin: 28px;
+
+}
+
+.menu{
+	width: 500px;
+	float: right;
+	color: white;
+
+
+}
+
+.menu a{
+	text-decoration: none;
+}
+
+.slogan{
+	
+}
+
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
