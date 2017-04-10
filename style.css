@@ -34,15 +34,30 @@ body{
 }
 
 .menu{
-	width: 500px;
+
 	float: right;
+	text-decoration: none;
 	color: white;
+	margin-top: 40px;
+	margin-right: 28px;
+
 
 
 }
 
 .menu a{
 	text-decoration: none;
+	color: white;
+
+}
+
+.menu a:hover{
+	color: #00ADEF;
+
+}
+
+.selected{
+	color: #00ADEF;
 }
 
 .slogan{
