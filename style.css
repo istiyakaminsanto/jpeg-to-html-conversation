@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 	outline: 0;
+
 }
 
 body{
@@ -9,11 +10,13 @@ body{
 	font-size: 14px;
 	line-height: 18px;
 	color: #333;
+
 }
 
 .template{
 	width: 960px;
 	margin: 0 auto;
+	border: solid;
 }
 
 .clear{
@@ -62,18 +65,30 @@ body{
 
 .slogan{
 	
+
 }
 
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
-.{}
+.first_slogan{
+	font-size: 46px;
+    margin-top: 10px;
+    padding: 25px;
+    padding-bottom: 18px;
+}
+
+.and{
+	color: #00ADEF;
+}
+
+.second_slogan{
+	font-size: 38px;
+    margin-left: 25px;
+    color: #C8C8C8;
+    text-decoration: none;
+    padding-bottom: 30px;
+    border-bottom: dotted;
+    margin-right: 28px;
+
+
+
+}
+
