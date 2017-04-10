@@ -88,7 +88,16 @@ body{
     border-bottom: dotted;
     margin-right: 28px;
 
+}
 
-
+.description{
+	padding: 25px;
+	font-size: 23px;
+	line-height: 30px;
+	padding: 25px 0 30px;
+    border-bottom: dotted;
+    border-color: #C8C8C8;
+    margin-right: 28px;
+    margin-left: 25px;
 }
 
