@@ -16,7 +16,7 @@ body{
 .template{
 	width: 960px;
 	margin: 0 auto;
-	border: solid;
+
 }
 
 .clear{
@@ -101,3 +101,58 @@ body{
     margin-left: 25px;
 }
 
+
+.services{
+	padding: 25px;
+
+}
+
+.service{
+
+	float: left;
+	width: 200px;
+	background: #00ADEF;
+	margin-left: 32px;
+    width: 270px;
+    font-size: 16px;
+    height: 265px;
+
+
+}
+
+.sub_service{
+	color: white;
+	text-align: center;
+	padding: 15px;
+	border-bottom: dotted;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: 30px;
+
+}
+
+.service_description{
+	padding: 15px;
+	text-align: center;
+}
+
+.service_more_details{
+	text-align: center;
+	background: #0076A4;
+	padding: 10px;
+	margin-left: 15px;
+	margin-right: 15px;
+	color: white;
+
+}
+
+h3 a{
+	text-decoration: none;
+	color: white;
+
+}
+
+h3 a:hover{
+	color: #00ADEF;
+
+}
