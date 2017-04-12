@@ -164,4 +164,51 @@ h3 a:hover{
 
 .article_area{
 	width: 480px;
+	height: 340px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 25px;
+	border-right: dotted;
+	border-color: #C8C8C8;
+}
+
+.clint_test{
+	margin-bottom: 25px;
+	font-size: 30px;
+}
+
+.per_post{
+	float: left;
+	margin-bottom: 20px;
+
+}
+
+
+.image{
+	float: left;
+
+}
+
+.description{
+	float: left;
+	height: 80px;
+	width: 390px;
+	margin-left: 10px;
+}
+
+.title{
+	margin-top: 10px;
+}
+
+.job_title{
+	color: #00ADEF;
+	text-decoration: none;
+}
+
+.right_aside{
+	width: 402px;
+	height: 340px;
+	padding: 25px;
+	float: right;
+
 }
